@@ -11,3 +11,23 @@ body {
   justify-content: center;
   font-family: "Outfit", sans-serif;
 }
+
+main {
+  width: 350px;
+  background-color: #15263f;
+  border-radius: 15px;
+  padding: 24px;
+}
+
+.card-content {
+  width: 302px;
+}
+
+.card-image-container {
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.card-image-container img {
+  width: 100%;
+}
