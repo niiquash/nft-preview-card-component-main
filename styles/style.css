@@ -31,3 +31,29 @@ main {
 .card-image-container img {
   width: 100%;
 }
+
+.card-details-container {
+  width: 302px;
+}
+
+.card-details-name-container {
+  margin-bottom: 16px;
+}
+
+.card-details-name-container h1 {
+  color: white;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: auto;
+}
+
+.card-details-description-container {
+  margin-bottom: 24px;
+}
+
+.card-details-description-container p {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 26px;
+  color: #8bacd9;
+}
